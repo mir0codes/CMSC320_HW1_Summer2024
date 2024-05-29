@@ -1,0 +1,6 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking this class as it will not only benefit me in learning the basics and "in-depths" of Python, 
+but introduce me to a whole new idea when it comes to data science. I never really got into data science before, 
+so this is a new experience for me and learning in general, so I want to make the most out of this class and understanding 
+more of data science and analysis in general in the realm of computer science and programming.
